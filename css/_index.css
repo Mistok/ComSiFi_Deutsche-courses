@@ -1,0 +1,43 @@
+#header-subscribe .bg-wrap {}#header-subscribe .bg {
+    background-image: url('../images/header-image.png');
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.55;
+}#text-2col-3--0 .bg {
+    background-image: url('../images/ComSiFi.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+#desc-text-4 .bg {
+    background-image: url('../images/bg56.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    opacity:1;
+}#text-2col-3 .bg {
+    background-image: url('../images/58468899e2951a4b87b00897.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+#desc-text-2 .bg {
+    background-image: url('../images/bg57.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: cover;
+    opacity:1;
+}#benefits-4col-6--0 .bg-wrap {
+    background-color: #f4f5f6;
+}#sep-center-4 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#sep-center-6 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#contact-form-2 .bg {
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    background-image: url('../images/background.jpg');
+}
+
+#footer-twitter-img .bg {}
